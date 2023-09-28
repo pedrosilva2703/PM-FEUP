@@ -24,6 +24,18 @@ Results showcase
 
 ### Project #2: Visual tracking of a moving object
 Results showcase
+![4](https://github.com/pedrosilva2703/PM-FEUP/assets/78810496/180b21cc-3b30-4965-83c3-ee86cc7f06fd)
+
+
+![5](https://github.com/pedrosilva2703/PM-FEUP/assets/78810496/caafe660-3971-4c29-b406-f68f5060fdae)
+
+
+![6](https://github.com/pedrosilva2703/PM-FEUP/assets/78810496/8dbd8b75-cce2-4131-9e09-42749a5464bd)
+
+
+![7](https://github.com/pedrosilva2703/PM-FEUP/assets/78810496/86f509de-043c-4b90-bc4d-162b03c221bb)
+
+
 
 
 ### Project #3: Collision Avoidance using 3D LiDAR”
