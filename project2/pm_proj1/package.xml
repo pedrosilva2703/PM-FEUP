@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<package>
+  <name>pm_proj1</name>
+  <version>0.0.0</version>
+  <description>TPM Proj1 pkg</description>
+
+  <author email="up201806651@fe.up.pt">Joaquim Daniel Rios Cunha</author> 
+  <author email="up201806526@fe.up.pt">Pedro Miguel Pinto Silva</author> 
+  
+  <maintainer email="up201806651@fe.up.pt">Joaquim Daniel Rios Cunha</maintainer>
+  <maintainer email="up201806526@fe.up.pt">Pedro Miguel Pinto Silva</maintainer>
+
+  <!-- One license tag required, multiple allowed, one license per tag -->
+  <!-- Commonly used license strings: -->
+  <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>cv_bridge</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>image_transport</build_depend>
+  <build_depend>OpenCV</build_depend>
+
+  <run_depend>cv_bridge</run_depend> 
+  <run_depend>std_msgs</run_depend> 
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>image_transport</run_depend> 
+  <run_depend>OpenCV</run_depend>
+
+
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+  </export>
+</package>

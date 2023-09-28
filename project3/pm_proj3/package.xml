@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+
+<package>
+  <name>pm_proj3</name>
+  <version>0.0.1</version>
+  <description>PM project 3 - Collision avoidance using 3D Lidar</description>
+
+  <author email="up201806651@fe.up.pt">Joaquim Daniel Rios Cunha</author> 
+  <author email="up201806526@fe.up.pt">Pedro Miguel Pinto Silva</author> 
+  
+  <maintainer email="up201806651@fe.up.pt">Joaquim Daniel Rios Cunha</maintainer>
+  <maintainer email="up201806526@fe.up.pt">Pedro Miguel Pinto Silva</maintainer>
+
+
+  <!-- One license tag required, multiple allowed, one license per tag -->
+  <!-- Commonly used license strings: -->
+  <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>pcl_ros</build_depend>
+  <build_depend>pcl_conversions</build_depend>
+  <build_depend>libpcl-all</build_depend>
+  <build_depend>nav_msgs</build_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>message_filters</build_depend>
+  
+
+
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>pcl_ros</run_depend>
+  <run_depend>pcl_conversions</run_depend>
+  <run_depend>libpcl-all</run_depend>
+  <run_depend>nav_msgs</run_depend>
+  <run_depend>message_generation</run_depend>
+  <run_depend>message_filters</run_depend>
+
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+  </export>
+</package>

@@ -1,0 +1,35 @@
+<launch>
+
+
+    <!-- RED: mean"169,178,138" sd "9,77,117"-->
+
+    <param name="video_path" type="str"  value="/home/percmap/catkin_ws/videos/videoPlastic.mp4"/>
+    <param name="h_mean" type="int" value="169" />
+    <param name="s_mean" type="int" value="178" />
+    <param name="v_mean" type="int" value="138" />
+    <param name="h_sd" type="int" value="9" />
+    <param name="s_sd" type="int" value="77" />
+    <param name="v_sd" type="int" value="117" />
+
+
+    <!-- OUR Green: mean"46,170,135" sd "18,85,120"-->
+ <!--
+    <param name="video_path" type="str" value="/home/percmap/catkin_ws/videos/videoTennis.mp4" />
+    <param name="h_mean" type="int" value="46" />
+    <param name="s_mean" type="int" value="170" />
+    <param name="v_mean" type="int" value="135" />
+    <param name="h_sd" type="int" value="18" />
+    <param name="s_sd" type="int" value="85" />
+    <param name="v_sd" type="int" value="120" />
+    <param name="v_sd" type="int" value="120" />
+ -->
+
+    <node name="vloader_node" type="vloader" pkg="pm_proj1" output="screen" />
+  
+    <node name="vtracker_node" type="vtracker" pkg="pm_proj1" output="screen" />
+
+ <!-- 
+    <node type="rviz" name="rviz" pkg="rviz" args="-d $(find pm_proj1)/rviz/pm_proj1.rviz" />
+-->    
+    
+</launch>
