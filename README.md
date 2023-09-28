@@ -16,7 +16,9 @@ Results showcase
 
 <img src="https://github.com/pedrosilva2703/PM-FEUP/assets/78810496/e83c49dd-959f-4230-b90c-e6f4bc78294e" style=" width:300px ; height:271px "  >
 
+
 <img src="https://github.com/pedrosilva2703/PM-FEUP/assets/78810496/962583e1-4f74-4e9c-a51f-263368bd67da" style=" width:300px ; height:271px "  >
+
 
 <img src="https://github.com/pedrosilva2703/PM-FEUP/assets/78810496/90ca8f39-07ea-47a9-97e9-107eae62d7a8" style=" width:300px ; height:271px "  >
 
