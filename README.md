@@ -36,9 +36,9 @@ Results showcase
 ![7](https://github.com/pedrosilva2703/PM-FEUP/assets/78810496/86f509de-043c-4b90-bc4d-162b03c221bb)
 
 
-
-
 ### Project #3: Collision Avoidance using 3D LiDAR”
 
+![8](https://github.com/pedrosilva2703/PM-FEUP/assets/78810496/7adfb0fa-cb44-4520-b5df-3ce53cc4c1f2)
 
+![9](https://github.com/pedrosilva2703/PM-FEUP/assets/78810496/815724c0-cc20-4e0e-8182-24d7d1fc9d04)
 
